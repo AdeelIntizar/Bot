@@ -1,0 +1,4 @@
+chatbot/
+__pycache__/
+checkpoint-210/
+.env
